@@ -1,3 +1,12 @@
+/**
+ * Project: MMA301 Assignment 2 - Integrated E-Commerce Mobile App
+ * Tác giả: Lê Phước Nghĩa
+ * MSSV: CE181020
+ * Git Account: nghialpce181020-debug
+ * Module / Requirement: R05, R06, R08, R09 - Shopping Cart & Checkout Screen
+ * Ý nghĩa & Mục đích: Màn hình giỏ hàng hiển thị danh sách món hàng, nhập mã ưu đãi, bảng tóm tắt chi phí (Derived Totals), và thanh toán kích hoạt thông báo.
+ */
+
 import React, { useState } from 'react';
 import {
   View,

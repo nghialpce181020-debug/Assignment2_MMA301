@@ -1,4 +1,13 @@
 /**
+ * Project: MMA301 Assignment 2 - Integrated E-Commerce Mobile App
+ * Tác giả: Lê Phước Nghĩa
+ * MSSV: CE181020
+ * Git Account: nghialpce181020-debug
+ * Module / Requirement: R04, R06 - Data Transformation & Currency Formatter
+ * Ý nghĩa & Mục đích: Cung cấp các hàm định dạng giá tiền USD ($), tính giá khuyến mãi sau giảm và định dạng ngày tháng.
+ */
+
+/**
  * Utility functions for formatting numbers, currency, and dates.
  */
 

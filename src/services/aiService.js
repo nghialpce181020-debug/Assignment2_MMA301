@@ -1,3 +1,12 @@
+/**
+ * Project: MMA301 Assignment 2 - Integrated E-Commerce Mobile App
+ * Tác giả: Lê Phước Nghĩa
+ * MSSV: CE181020
+ * Git Account: nghialpce181020-debug
+ * Module / Requirement: R10 - Google Gemini AI Integration & Anti-Hallucination Guard
+ * Ý nghĩa & Mục đích: Kết nối Google Gemini 2.5 Flash REST API, gửi context danh mục và đối chiếu ID (Anti-Hallucination) ngăn ngừa thông tin ảo.
+ */
+
 import axios from 'axios';
 import { storageHelper } from '../utils/storageHelper.js';
 import { CONFIG } from '../config/env.js';

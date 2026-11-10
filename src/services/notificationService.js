@@ -1,3 +1,12 @@
+/**
+ * Project: MMA301 Assignment 2 - Integrated E-Commerce Mobile App
+ * Tác giả: Lê Phước Nghĩa
+ * MSSV: CE181020
+ * Git Account: nghialpce181020-debug
+ * Module / Requirement: R09 - Expo Notifications & Permission Management
+ * Ý nghĩa & Mục đích: Quản lý xin quyền thông báo hệ thống, cấu hình Android Notification Channel, và kích hoạt thông báo sự kiện.
+ */
+
 import * as Notifications from 'expo-notifications';
 import { Platform } from 'react-native';
 

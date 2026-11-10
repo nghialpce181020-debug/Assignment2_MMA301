@@ -1,3 +1,12 @@
+/**
+ * Project: MMA301 Assignment 2 - Integrated E-Commerce Mobile App
+ * Tác giả: Lê Phước Nghĩa
+ * MSSV: CE181020
+ * Git Account: nghialpce181020-debug
+ * Module / Requirement: R09, R10 - System Settings & Notification Permission Screen
+ * Ý nghĩa & Mục đích: Màn hình cài đặt quyền thông báo hệ thống OS, nút thử nghiệm thông báo và giao diện nhập API Key an toàn cho Gemini AI.
+ */
+
 import React, { useState, useEffect } from 'react';
 import {
   View,

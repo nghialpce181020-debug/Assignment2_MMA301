@@ -1,3 +1,12 @@
+/**
+ * Project: MMA301 Assignment 2 - Integrated E-Commerce Mobile App
+ * Tác giả: Lê Phước Nghĩa
+ * MSSV: CE181020
+ * Git Account: nghialpce181020-debug
+ * Module / Requirement: R02, R05, R08 - Reusable Product Card Component
+ * Ý nghĩa & Mục đích: Hiển thị thẻ sản phẩm gồm hình ảnh, tên, giá gốc, giá sau giảm, đánh giá sao, nút yêu thích nhanh và nút thêm vào giỏ hàng.
+ */
+
 import React from 'react';
 import { View, Text, Image, StyleSheet, TouchableOpacity } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';

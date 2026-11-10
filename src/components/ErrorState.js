@@ -1,3 +1,12 @@
+/**
+ * Project: MMA301 Assignment 2 - Integrated E-Commerce Mobile App
+ * Tác giả: Lê Phước Nghĩa
+ * MSSV: CE181020
+ * Git Account: nghialpce181020-debug
+ * Module / Requirement: R01, R11 - Reusable Error & Retry Component
+ * Ý nghĩa & Mục đích: Hiển thị thông báo lỗi mạng / tải dữ liệu và cung cấp nút Thử lại (Retry) giúp phục hồi ứng dụng an toàn.
+ */
+
 import React from 'react';
 import { View, Text, StyleSheet, TouchableOpacity } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';

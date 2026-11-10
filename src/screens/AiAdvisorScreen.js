@@ -1,3 +1,12 @@
+/**
+ * Project: MMA301 Assignment 2 - Integrated E-Commerce Mobile App
+ * Tác giả: Lê Phước Nghĩa
+ * MSSV: CE181020
+ * Git Account: nghialpce181020-debug
+ * Module / Requirement: R10 - Gemini AI Advisor & Product Comparison Screen
+ * Ý nghĩa & Mục đích: Màn hình trợ lý ảo AI tư vấn mua sắm và so sánh sản phẩm thông minh, lọc bỏ ảo giác và hiển thị thẻ sản phẩm tương tác thực tế.
+ */
+
 import React, { useState, useEffect } from 'react';
 import {
   View,

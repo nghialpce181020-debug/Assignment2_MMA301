@@ -1,3 +1,12 @@
+/**
+ * Project: MMA301 Assignment 2 - Integrated E-Commerce Mobile App
+ * Tác giả: Lê Phước Nghĩa
+ * MSSV: CE181020
+ * Git Account: nghialpce181020-debug
+ * Module / Requirement: R01, R02, R03 - Product Catalog Screen
+ * Ý nghĩa & Mục đích: Màn hình danh mục sản phẩm với thanh tìm kiếm, bộ lọc chip danh mục, FlatList phân trang vô hạn kèm cờ guard chống tải lặp.
+ */
+
 import React, { useState } from 'react';
 import {
   View,

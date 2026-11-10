@@ -1,3 +1,12 @@
+/**
+ * Project: MMA301 Assignment 2 - Integrated E-Commerce Mobile App
+ * Tác giả: Lê Phước Nghĩa
+ * MSSV: CE181020
+ * Git Account: nghialpce181020-debug
+ * Module / Requirement: R01, R02, R03 - Global Product State Management
+ * Ý nghĩa & Mục đích: Quản lý trạng thái danh mục sản phẩm, phân trang vô hạn (Infinite Scroll), tìm kiếm, lọc danh mục, kéo để làm mới (Pull-to-refresh).
+ */
+
 import React, { createContext, useContext, useState, useEffect, useCallback } from 'react';
 import { productService } from '../services/productService';
 import { CONFIG } from '../config/env';

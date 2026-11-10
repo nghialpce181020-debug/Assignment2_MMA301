@@ -1,3 +1,12 @@
+/**
+ * Project: MMA301 Assignment 2 - Integrated E-Commerce Mobile App
+ * Tác giả: Lê Phước Nghĩa
+ * MSSV: CE181020
+ * Git Account: nghialpce181020-debug
+ * Module / Requirement: R05, R06, R07 - Cart State & Derived Totals Management
+ * Ý nghĩa & Mục đích: Quản lý giỏ hàng (thêm, cập nhật số lượng, xóa), tính Derived Totals qua useMemo, áp dụng mã ưu đãi và lưu AsyncStorage.
+ */
+
 import React, { createContext, useContext, useState, useEffect, useMemo } from 'react';
 import { storageHelper } from '../utils/storageHelper';
 import { CONFIG } from '../config/env';

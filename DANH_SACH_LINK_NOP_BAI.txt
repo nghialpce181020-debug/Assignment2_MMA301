@@ -1,0 +1,56 @@
+================================================================================
+BỘ MINH CHỨNG ĐÁNH GIÁ BỔ SUNG & DANH SÁCH LINK NỘP BÀI (ASSIGNMENT 2 - MMA301)
+================================================================================
+
+THÔNG TIN SINH VIÊN:
+- Họ và tên: Lê Phước Nghĩa
+- Mã số sinh viên (MSSV): CE181020
+- Lớp học phần: MMA301 – Multiplatform Mobile App Development
+- Tên đề tài: Integrated E-Commerce Mobile Application (React Native / Expo SDK 58)
+
+--------------------------------------------------------------------------------
+1. LINK GITHUB REPOSITORY CHÍNH THỨC:
+--------------------------------------------------------------------------------
+GitHub Repository: https://github.com/nghialpce181020-debug/Assignment2_MMA301.git
+- Tài khoản GitHub: nghialpce181020-debug
+- Branch chính: main
+- Mô tả mã nguồn: Đã đẩy đầy đủ 100% code, tài liệu kiểm thử, ma trận truy vết (RTM), 
+  và toàn bộ các file nguồn đều có header Tên tác giả (Lê Phước Nghĩa), MSSV (CE181020) 
+  và mã UC/Requirement tương ứng.
+
+--------------------------------------------------------------------------------
+2. LINK GOOGLE DRIVE CHỨA VIDEO MINH CHỨNG (CÓ KHUÔN MẶT & ĐỌC MSSV):
+--------------------------------------------------------------------------------
+[!] Hướng dẫn: Bạn hãy tải các video đã quay lên Google Drive của bạn, mở quyền "Bất kỳ ai có đường liên kết đều có thể xem" (Anyone with the link can view) và dán các đường link tương ứng vào các dòng bên dưới:
+
+- THƯ MỤC GOOGLE DRIVE TỔNG HỢP:
+  Link: https://drive.google.com/drive/folders/YOUR_DRIVE_FOLDER_ID_HERE
+
+- VIDEO 1 - CÂU 1 (Yêu cầu, Phương pháp giải quyết & Công nghệ sử dụng):
+  Link: https://drive.google.com/file/d/YOUR_VIDEO_1_ID_HERE/view
+  (Nội dung: Quay khuôn mặt, đọc MSSV CE181020, mở file BAO_CAO_YEU_CAU_VA_GIAI_PHAP_MMA301.docx,
+   trình bày 12 Use Cases R01-R12 và phân tích chi tiết công nghệ React Native, Expo SDK 58, 
+   DummyJSON API, AsyncStorage, Firebase, Expo Notifications, Google Gemini 2.5 Flash, EAS Build).
+
+- VIDEO 2 - CÂU 2 (Minh chứng Git, Tiến độ & Kiến trúc mã nguồn):
+  Link: https://drive.google.com/file/d/YOUR_VIDEO_2_ID_HERE/view
+  (Nội dung: Mở repository GitHub nghialpce181020-debug, quay commit log đúng tiến độ, mở từng file 
+   trong VS Code chỉ rõ header Tên tác giả Lê Phước Nghĩa - CE181020, giải thích ý nghĩa và mục đích 
+   từng file theo nguyên tắc Separation of Concerns).
+
+- VIDEO 3 - CÂU 3 (Hiểu code, Workflow nghiệp vụ & Giải thích code chính):
+  Link: https://drive.google.com/file/d/YOUR_VIDEO_3_ID_HERE/view
+  (Nội dung: Phân tích luồng thực thi Catalog -> Cart -> Checkout -> Notification -> Gemini AI.
+   Chỉ và giải thích các đoạn code cốt lõi: hàm loadMore() chống tải lặp, useMemo Derived Totals, 
+   hàm validateAndMatchProducts chống ảo giác AI, và cơ chế Fallback Offline).
+
+--------------------------------------------------------------------------------
+3. TÀI LIỆU MINH CHỨNG ĐÍNH KÈM TRONG DỰ ÁN:
+--------------------------------------------------------------------------------
+1. BAO_CAO_YEU_CAU_VA_GIAI_PHAP_MMA301.docx (File Word chuẩn Câu 1 có phân tích công nghệ)
+2. DANH_SACH_LINK_NOP_BAI_MMA301.docx (File Word chứa link GitHub & Google Drive)
+3. README.md (Hướng dẫn cài đặt, chạy máy ảo/web, tổng quan kiến trúc)
+4. RTM.md (Bảng ma trận truy vết yêu cầu R01-R12 & 6 Quyết định thiết kế kỹ thuật)
+5. TEST_MATRIX.md (Bảng 15 Test cases chuẩn + 2 Debug logs thực tế)
+6. INTERVIEW_CHEAT_SHEET.md (Bộ câu hỏi vấn đáp và cẩm nang chỉ code trong 30 giây)
+7. AI_USAGE_LOG.md (Nhật ký minh bạch sử dụng AI có trách nhiệm)

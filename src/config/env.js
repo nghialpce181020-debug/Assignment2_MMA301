@@ -1,3 +1,12 @@
+/**
+ * Project: MMA301 Assignment 2 - Integrated E-Commerce Mobile App
+ * Tác giả: Lê Phước Nghĩa
+ * MSSV: CE181020
+ * Git Account: nghialpce181020-debug
+ * Module / Requirement: R01, R08, R09, R10 - Centralized App Configuration & Secrets
+ * Ý nghĩa & Mục đích: Quản lý cấu hình tập trung: API Base URL, Firebase Keys, Notification Channels, Gemini API endpoint. Bảo đảm an toàn bí mật.
+ */
+
 // Application Configuration and Environment
 // Non-sensitive configuration file. Secrets are not hardcoded.
 

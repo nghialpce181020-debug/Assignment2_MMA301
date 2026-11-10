@@ -1,3 +1,12 @@
+/**
+ * Project: MMA301 Assignment 2 - Integrated E-Commerce Mobile App
+ * Tác giả: Lê Phước Nghĩa
+ * MSSV: CE181020
+ * Git Account: nghialpce181020-debug
+ * Module / Requirement: Root Application & Context Providers Entry
+ * Ý nghĩa & Mục đích: Điểm khởi nhập chính của ứng dụng, bọc toàn bộ hệ thống bằng các Context Provider (Product, Cart, Wishlist, Notification) và AppNavigator.
+ */
+
 import React from 'react';
 import { StatusBar } from 'expo-status-bar';
 import { SafeAreaProvider } from 'react-native-safe-area-context';

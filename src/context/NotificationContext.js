@@ -1,3 +1,12 @@
+/**
+ * Project: MMA301 Assignment 2 - Integrated E-Commerce Mobile App
+ * Tác giả: Lê Phước Nghĩa
+ * MSSV: CE181020
+ * Git Account: nghialpce181020-debug
+ * Module / Requirement: R09 - Notification State Management
+ * Ý nghĩa & Mục đích: Theo dõi trạng thái cấp quyền thông báo OS, cung cấp các hàm kích hoạt thông báo đặt hàng/yêu thích cho toàn ứng dụng.
+ */
+
 import React, { createContext, useContext, useState, useEffect } from 'react';
 import { notificationService } from '../services/notificationService';
 

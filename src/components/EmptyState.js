@@ -1,3 +1,12 @@
+/**
+ * Project: MMA301 Assignment 2 - Integrated E-Commerce Mobile App
+ * Tác giả: Lê Phước Nghĩa
+ * MSSV: CE181020
+ * Git Account: nghialpce181020-debug
+ * Module / Requirement: R02, R03, R05 - Reusable Empty State UI
+ * Ý nghĩa & Mục đích: Giao diện thân thiện khi danh sách sản phẩm trống, giỏ hàng chưa có hàng hoặc tìm kiếm không thấy kết quả.
+ */
+
 import React from 'react';
 import { View, Text, StyleSheet, TouchableOpacity } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';

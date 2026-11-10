@@ -1,3 +1,12 @@
+/**
+ * Project: MMA301 Assignment 2 - Integrated E-Commerce Mobile App
+ * Tác giả: Lê Phước Nghĩa
+ * MSSV: CE181020
+ * Git Account: nghialpce181020-debug
+ * Module / Requirement: R04, R05, R08 - Product Detail Screen
+ * Ý nghĩa & Mục đích: Màn hình chi tiết sản phẩm: xem ảnh, thông số kỹ thuật, đánh giá khách hàng, chọn số lượng kiểm tra tồn kho và thêm vào giỏ.
+ */
+
 import React, { useState, useEffect } from 'react';
 import {
   View,

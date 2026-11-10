@@ -1,3 +1,12 @@
+/**
+ * Project: MMA301 Assignment 2 - Integrated E-Commerce Mobile App
+ * Tác giả: Lê Phước Nghĩa
+ * MSSV: CE181020
+ * Git Account: nghialpce181020-debug
+ * Module / Requirement: R08 - Wishlist & Cloud Sync State Management
+ * Ý nghĩa & Mục đích: Quản lý danh sách sản phẩm yêu thích (toggle thêm/bớt), đồng bộ Firebase Cloud và lưu trữ cục bộ dự phòng.
+ */
+
 import React, { createContext, useContext, useState, useEffect } from 'react';
 import { firebaseService } from '../services/firebaseService';
 

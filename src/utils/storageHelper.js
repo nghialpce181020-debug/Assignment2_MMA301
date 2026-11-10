@@ -1,3 +1,12 @@
+/**
+ * Project: MMA301 Assignment 2 - Integrated E-Commerce Mobile App
+ * Tác giả: Lê Phước Nghĩa
+ * MSSV: CE181020
+ * Git Account: nghialpce181020-debug
+ * Module / Requirement: R07 - Local Persistence Helper (AsyncStorage)
+ * Ý nghĩa & Mục đích: Wrapper an toàn cho AsyncStorage với try/catch và JSON parse guard, phục vụ lưu trữ giỏ hàng, danh sách yêu thích và cài đặt offline.
+ */
+
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
 /**

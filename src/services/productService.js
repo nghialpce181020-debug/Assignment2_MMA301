@@ -1,3 +1,12 @@
+/**
+ * Project: MMA301 Assignment 2 - Integrated E-Commerce Mobile App
+ * Tác giả: Lê Phước Nghĩa
+ * MSSV: CE181020
+ * Git Account: nghialpce181020-debug
+ * Module / Requirement: R01, R02, R03, R04 - Remote Product Service
+ * Ý nghĩa & Mục đích: Gọi DummyJSON REST API qua Axios: phân trang (limit/skip), lọc theo danh mục, tìm kiếm và lấy chi tiết sản phẩm.
+ */
+
 import axios from 'axios';
 import { CONFIG } from '../config/env.js';
 

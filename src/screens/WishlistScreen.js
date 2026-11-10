@@ -1,3 +1,12 @@
+/**
+ * Project: MMA301 Assignment 2 - Integrated E-Commerce Mobile App
+ * Tác giả: Lê Phước Nghĩa
+ * MSSV: CE181020
+ * Git Account: nghialpce181020-debug
+ * Module / Requirement: R08 - Wishlist & Order History Screen
+ * Ý nghĩa & Mục đích: Màn hình quản lý danh sách yêu thích và lịch sử đơn hàng với chỉ báo trạng thái đồng bộ Firebase Cloud / Offline.
+ */
+
 import React, { useState, useEffect } from 'react';
 import {
   View,

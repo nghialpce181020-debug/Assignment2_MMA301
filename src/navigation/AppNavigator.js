@@ -1,3 +1,12 @@
+/**
+ * Project: MMA301 Assignment 2 - Integrated E-Commerce Mobile App
+ * Tác giả: Lê Phước Nghĩa
+ * MSSV: CE181020
+ * Git Account: nghialpce181020-debug
+ * Module / Requirement: Navigation Architecture (Tabs + Stacks)
+ * Ý nghĩa & Mục đích: Định tuyến luồng di chuyển với 5 Tabs chính (Shop, Advisor, Cart có badge, Wishlist, Settings) và Stack Navigator cho ProductDetail.
+ */
+
 import React from 'react';
 import { View, Text, StyleSheet } from 'react-native';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';

@@ -1,3 +1,12 @@
+/**
+ * Project: MMA301 Assignment 2 - Integrated E-Commerce Mobile App
+ * Tác giả: Lê Phước Nghĩa
+ * MSSV: CE181020
+ * Git Account: nghialpce181020-debug
+ * Module / Requirement: R08 - Firebase Cloud & Resilient Hybrid Storage
+ * Ý nghĩa & Mục đích: Quản lý lưu trữ đám mây cho danh sách yêu thích và đơn hàng; tự động kích hoạt cơ chế Offline Fallback khi mất mạng.
+ */
+
 import { storageHelper } from '../utils/storageHelper.js';
 import { CONFIG } from '../config/env.js';
 

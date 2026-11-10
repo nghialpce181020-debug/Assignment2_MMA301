@@ -4,7 +4,7 @@
 **Mã số sinh viên:** CE181020  
 **Lớp / Môn học:** MMA301 – Multiplatform Mobile App Development  
 **Tên dự án:** `MMA301_Assignment2_nghialpce181020`  
-**Nền tảng:** React Native (Expo SDK 52, React 18)
+**Nền tảng:** React Native (Expo SDK 57, React 19)
 
 ---
 

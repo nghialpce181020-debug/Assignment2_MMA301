@@ -14,10 +14,8 @@
 | Hạng mục nộp bài | Đường dẫn liên kết (URL) | Ghi chú |
 |---|---|---|
 | **🔗 GitHub Repository** | [https://github.com/nghialpce181020-debug/Assignment2_MMA301.git](https://github.com/nghialpce181020-debug/Assignment2_MMA301.git) | Mã nguồn đầy đủ, commit history theo tiến độ, header tác giả CE181020 đầu mỗi file |
-| **🎥 Video Checkpoint (Google Drive Folder)** | **`[DÁN_LINK_GOOGLE_DRIVE_TỔNG_CỦA_BẠN_VÀO_ĐÂY]`** | Thư mục chứa video tự phỏng vấn có mặt sinh viên và đọc MSSV |
-| **🎬 Video 1: Câu 1 (Yêu cầu & Công nghệ)** | **`[DÁN_LINK_VIDEO_1_VÀO_ĐÂY]`** | Phân tích 12 Use Cases R01-R12, giải pháp kỹ thuật và bảng công nghệ chi tiết |
-| **🎬 Video 2: Câu 2 (Minh chứng Git)** | **`[DÁN_LINK_VIDEO_2_VÀO_ĐÂY]`** | Quay màn hình GitHub repo, commit history, quay từng file có header tên tác giả, giải thích kiến trúc |
-| **🎬 Video 3: Câu 3 (Workflow & Code chính)** | **`[DÁN_LINK_VIDEO_3_VÀO_ĐÂY]`** | Giải thích quy luật thực thi từng nghiệp vụ và các đoạn code chính yếu |
+| **🎥 Video Checkpoint (Google Drive Folder)** | **`[DÁN_LINK_GOOGLE_DRIVE_TỔNG_CỦA_BẠN_VÀO_ĐÂY]`** | Thư 
+
 
 > ⚠️ **LƯU Ý QUAN TRỌNG KHI TẢI VIDEO LÊN GOOGLE DRIVE:**  
 > 1. Chuột phải vào file/thư mục video trên Google Drive ➔ Chọn **Chia sẻ (Share)**.  

@@ -24,7 +24,7 @@ GitHub Repository: https://github.com/nghialpce181020-debug/Assignment2_MMA301.g
 [!] Hướng dẫn: Bạn hãy tải các video đã quay lên Google Drive của bạn, mở quyền "Bất kỳ ai có đường liên kết đều có thể xem" (Anyone with the link can view) và dán các đường link tương ứng vào các dòng bên dưới:
 
 - THƯ MỤC GOOGLE DRIVE TỔNG HỢP:
-  Link: https://drive.google.com/drive/folders/YOUR_DRIVE_FOLDER_ID_HERE
+  Link: https://drive.google.com/drive/u/0/folders/1w-Xo2wtcDX_uGsmDZiUx6DNQiRcS2bvz
 
 - VIDEO 1 - CÂU 1 (Yêu cầu, Phương pháp giải quyết & Công nghệ sử dụng):
   Link: https://drive.google.com/file/d/YOUR_VIDEO_1_ID_HERE/view

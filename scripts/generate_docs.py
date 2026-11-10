@@ -238,7 +238,7 @@ def create_submission_links_doc():
 
     links_data = [
         ("GitHub Repository", "https://github.com/nghialpce181020-debug/Assignment2_MMA301.git", "Mã nguồn đầy đủ, có header tác giả CE181020 đầu mỗi file, commit history đúng tiến độ."),
-        ("Google Drive Thư mục Video (Tổng)", "https://drive.google.com/drive/folders/YOUR_DRIVE_FOLDER_ID_HERE", "Thư mục chứa video quay khuôn mặt, đọc MSSV và trình bày đầy đủ 3 câu."),
+        ("Google Drive Thư mục Video (Tổng)", "https://drive.google.com/drive/u/0/folders/1w-Xo2wtcDX_uGsmDZiUx6DNQiRcS2bvz", "Thư mục chứa video quay khuôn mặt, đọc MSSV và trình bày đầy đủ 3 câu."),
         ("Video 1: Câu 1 (Yêu cầu & Giải pháp)", "https://drive.google.com/file/d/YOUR_VIDEO_1_ID_HERE/view", "Trình bày Problem, Use Cases R01-R12, giải pháp và công nghệ sử dụng kèm file docx minh họa."),
         ("Video 2: Câu 2 (Minh chứng Git)", "https://drive.google.com/file/d/YOUR_VIDEO_2_ID_HERE/view", "Quay repo Git, commit log, từng file có header tên tác giả, giải thích kiến trúc tổ chức code."),
         ("Video 3: Câu 3 (Hiểu code & Workflow)", "https://drive.google.com/file/d/YOUR_VIDEO_3_ID_HERE/view", "Giải thích chi tiết quy luật thực thi từng nghiệp vụ và các đoạn code chính yếu.")

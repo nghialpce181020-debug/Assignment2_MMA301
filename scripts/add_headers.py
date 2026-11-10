@@ -113,3 +113,4 @@ for file_path, (req_id, purpose) in files_meta.items():
     with open(file_path, 'w', encoding='utf-8') as f:
         f.write(header + content)
     print(f'Updated header for: {file_path}')
+

@@ -127,8 +127,12 @@ npx expo export --platform web
 
 ---
 
-## 6. HỒ SƠ TÀI LIỆU KÈM THEO
-- **[RTM.md](file:///d:/MMA301_Assignment2_nghialpce181020/RTM.md):** Ma trận truy vết yêu cầu R01 đến R12 + Design Decision Record (6 quyết định kỹ thuật) + Integration Map.
-- **[TEST_MATRIX.md](file:///d:/MMA301_Assignment2_nghialpce181020/TEST_MATRIX.md):** Bảng kiểm thử 15 test cases chuẩn theo đề bài + 2 Debug Logs thực tế.
-- **[AI_USAGE_LOG.md](file:///d:/MMA301_Assignment2_nghialpce181020/AI_USAGE_LOG.md):** Nhật ký sử dụng AI có trách nhiệm (Section 9.4).
-- **[INTERVIEW_CHEAT_SHEET.md](file:///d:/MMA301_Assignment2_nghialpce181020/INTERVIEW_CHEAT_SHEET.md):** Bộ câu hỏi vấn đáp và checklist giải thích code trong 30 giây phục vụ buổi chấm điểm.
+## 6. HỒ SƠ TÀI LIỆU KÈM THEO (THƯ MỤC `docs/`)
+Toàn bộ tài liệu báo cáo và minh chứng được tổ chức chuẩn hóa trong thư mục `docs/`:
+- **[docs/CHUNG_MINH_YEU_CAU_GIAI_PHAP.md](file:///d:/MMA301_Assignment2_nghialpce181020/docs/CHUNG_MINH_YEU_CAU_GIAI_PHAP.md):** Báo cáo tóm tắt chứng minh yêu cầu cốt lõi, bảng công nghệ sử dụng, đối chiếu giải pháp kỹ thuật và bảng tra cứu code.
+- **[docs/THONG_TIN_NOP_BAI_LINK_VIDEO.md](file:///d:/MMA301_Assignment2_nghialpce181020/docs/THONG_TIN_NOP_BAI_LINK_VIDEO.md):** Thông tin sinh viên, liên kết mã nguồn GitHub và đường dẫn Google Drive chứa video minh chứng có mặt.
+- **[docs/RTM_DDR.md](file:///d:/MMA301_Assignment2_nghialpce181020/docs/RTM_DDR.md):** Ma trận truy vết yêu cầu R01 đến R12 + Design Decision Record (6 quyết định kỹ thuật) + Integration Map.
+- **[docs/TEST_MATRIX.md](file:///d:/MMA301_Assignment2_nghialpce181020/docs/TEST_MATRIX.md):** Bảng kiểm thử 15 test cases chuẩn theo đề bài (100% PASS).
+- **[docs/DEBUG_LOGS.md](file:///d:/MMA301_Assignment2_nghialpce181020/docs/DEBUG_LOGS.md):** Nhật ký debug thực tế phân tích triệu chứng, root cause, fix và retest.
+- **[docs/INTERVIEW_TRANSFER.md](file:///d:/MMA301_Assignment2_nghialpce181020/docs/INTERVIEW_TRANSFER.md):** Bộ 12 câu hỏi vấn đáp bắt buộc, checklist chỉ code trong 30 giây và kịch bản transfer task.
+- **[docs/AI_USAGE_LOG.md](file:///d:/MMA301_Assignment2_nghialpce181020/docs/AI_USAGE_LOG.md):** Nhật ký sử dụng AI có trách nhiệm (Section 9.4).

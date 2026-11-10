@@ -54,3 +54,4 @@ GitHub Repository: https://github.com/nghialpce181020-debug/Assignment2_MMA301.g
 5. TEST_MATRIX.md (Bảng 15 Test cases chuẩn + 2 Debug logs thực tế)
 6. INTERVIEW_CHEAT_SHEET.md (Bộ câu hỏi vấn đáp và cẩm nang chỉ code trong 30 giây)
 7. AI_USAGE_LOG.md (Nhật ký minh bạch sử dụng AI có trách nhiệm)
+

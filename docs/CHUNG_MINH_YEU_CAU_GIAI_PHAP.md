@@ -48,8 +48,8 @@
 
 | Hạng mục kỹ thuật | Công nghệ / Thư viện chính | Vai trò & Mục đích sử dụng |
 |---|---|---|
-| **Nền tảng ứng dụng** | **React Native v0.78 (Expo SDK 58)** | Nền tảng di động đa nền tảng hiện đại nhất, hiệu năng Native 60 FPS, Expo Doctor đạt 20/20 checks. |
-| **Cốt lõi phản ứng (Core)** | **React v19.0.0** | Tận dụng bộ Hooks hiện đại (`useMemo`, `useCallback`, `useContext`, `useState`, `useEffect`) quản trị Reactive State mượt mà. |
+| **Nền tảng ứng dụng** | **React Native v0.76 (Expo SDK 52)** | Nền tảng di động đa nền tảng chuẩn học phần MMA301, tương thích 100% với Expo Go LDPlayer. |
+| **Cốt lõi phản ứng (Core)** | **React v18.3.1** | Tận dụng bộ Hooks hiện đại (`useMemo`, `useCallback`, `useContext`, `useState`, `useEffect`) quản trị Reactive State mượt mà. |
 | **Điều hướng (Navigation)** | **React Navigation v7** (`native-stack`, `bottom-tabs`) | Kiến trúc 5 Tabs chính (`Shop`, `Advisor`, `Cart` có huy hiệu số lượng, `Wishlist`, `Settings`) + Stack chuyển trang Chi tiết. |
 | **Nguồn dữ liệu REST API** | **Axios v1.7.9 + DummyJSON API** | Gọi API lấy dữ liệu sản phẩm, phân trang (`limit`/`skip`), tìm kiếm từ khóa và lọc theo category; timeout 10000ms. |
 | **Quản lý trạng thái (State)** | **React Context API** (4 Contexts độc lập) | `ProductContext`, `CartContext`, `WishlistContext`, `NotificationContext` chia nhỏ ngữ cảnh, tối ưu re-render. |
@@ -105,7 +105,8 @@ Khi phỏng vấn hoặc quay video, thầy cô yêu cầu kiểm tra chức nă
 > 6. Tích hợp trợ lý ảo **Google Gemini 2.5 Flash** tư vấn mua sắm, có hàm **Anti-Hallucination Guard** đối chiếu mã sản phẩm để triệt tiêu hoàn toàn ảo giác.
 > 
 > Về **Giải pháp & Công nghệ sử dụng**:
-> * Dự án được em xây dựng trên nền tảng **React Native 0.78 với Expo SDK 58 và React 19**.
+> * Dự án được em xây dựng trên nền tảng **React Native 0.76 với Expo SDK 52 và React 18**.
 > * Điều hướng kết hợp **Bottom Tabs 5 màn hình** và **Native Stack** chuyển trang chi tiết.
 > * Em chia tách kiến trúc rõ ràng theo nguyên tắc **Separation of Concerns**: màn hình UI chỉ hiển thị dữ liệu, toàn bộ logic được quản lý bởi **4 Contexts độc lập** và các **Services chuyên biệt**.
 > * Em đặt cờ **Triple Guard** để chống tải lặp khi cuộn FlatList; dùng **useMemo** tính Derived Totals để tránh tình trạng lệch tiền (Stale State); và bọc toàn bộ tương tác Cloud/Storage trong **try/catch** để đảm bảo ứng dụng **100% không bao giờ bị crash**."*
+

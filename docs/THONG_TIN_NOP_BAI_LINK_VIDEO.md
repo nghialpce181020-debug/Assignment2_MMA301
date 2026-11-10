@@ -43,3 +43,4 @@ Video phỏng vấn tuân thủ 100% các tiêu chí hướng dẫn của giản
    * Giải thích luồng Giỏ hàng & Derived Totals: hook `useMemo` tính toán tự động tránh Stale State.
    * Giải thích luồng Đồng bộ đám mây & Phục hồi lỗi: hàm `saveOrder()` / `syncWishlist()` với cơ chế Offline Fallback an toàn.
    * Giải thích luồng Trợ lý ảo AI: hàm `validateAndMatchProducts()` lọc bỏ mã ảo giác trước khi render.
+

@@ -80,3 +80,4 @@
   ```
 * **Retest:**  
   Tăng/giảm số lượng bất kỳ món nào hoặc áp dụng coupon `MMA301`, tổng tiền tự động nhảy số tức thì với độ trễ 0ms, chính xác 100%.
+

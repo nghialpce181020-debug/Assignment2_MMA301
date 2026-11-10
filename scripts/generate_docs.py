@@ -55,7 +55,7 @@ def create_report_doc():
         "• Mã số sinh viên: CE181020\n"
         "• GitHub Account: nghialpce181020-debug\n"
         "• GitHub Repo: https://github.com/nghialpce181020-debug/Assignment2_MMA301.git\n"
-        "• Nền tảng phát triển: React Native 0.78 (Expo SDK 58, React 19)"
+        "• Nền tảng phát triển: React Native 0.76 (Expo SDK 52, React 18)"
     )
     run_info.font.size = Pt(11)
     run_info.italic = True
@@ -129,9 +129,9 @@ def create_report_doc():
                 r.font.color.rgb = RGBColor(0xFF, 0xFF, 0xFF)
 
     techs_data = [
-        ("React Native", "v0.78 (New Architecture ready)", "Framework xây dựng ứng dụng di động đa nền tảng (Android/iOS) với hiệu năng Native gần như tuyệt đối, hỗ trợ Flexbox styling hiện đại."),
-        ("Expo", "SDK 58 (Mới nhất)", "Hệ sinh thái phát triển di động chuẩn hóa: quản lý vòng đời ứng dụng, công cụ chẩn đoán expo-doctor đạt 20/20 checks, cấu hình app.json tự động hóa."),
-        ("React", "v19.0.0", "Thư viện cốt lõi với Hooks hiện đại (useMemo, useCallback, useState, useEffect, useContext) giúp quản trị reactive state tối ưu."),
+        ("React Native", "v0.76 (SDK 52 compatible)", "Framework xây dựng ứng dụng di động đa nền tảng (Android/iOS) với hiệu năng Native gần như tuyệt đối, hỗ trợ Flexbox styling hiện đại."),
+        ("Expo", "SDK 52 (Chuẩn môn MMA301)", "Hệ sinh thái phát triển di động chuẩn hóa: quản lý vòng đời ứng dụng, tương thích 100% với Expo Go trên máy ảo Android / LDPlayer."),
+        ("React", "v18.3.1", "Thư viện cốt lõi với Hooks hiện đại (useMemo, useCallback, useState, useEffect, useContext) giúp quản trị reactive state tối ưu."),
         ("React Navigation", "v7 (@react-navigation/native-stack, bottom-tabs)", "Điều hướng phân cấp chuyên nghiệp: Bottom Tab Navigator 5 tabs + Stack Navigator cho ProductDetail với transition mượt mà."),
         ("Axios", "v1.7.9", "HTTP Client kết nối DummyJSON API, cấu hình BaseURL tập trung, timeout 10000ms bảo vệ chống treo request."),
         ("AsyncStorage", "@react-native-async-storage/async-storage v2.1.2", "Lưu trữ Key-Value bền vững trên thiết bị, bọc qua storageHelper để chống crash khi JSON bị lỗi."),

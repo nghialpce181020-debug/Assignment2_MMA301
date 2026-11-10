@@ -65,3 +65,4 @@
   *Trả lời:* Em đã thiết kế sẵn kiến trúc tách lớp hoàn chỉnh:
   * Để đổi Sort: Thêm state `sortBy` và `sortOrder` trong `ProductContext`, truyền vào tham số `productService.getProducts({ sortBy, order })`, giao diện `ProductListScreen` chỉ cần kích hoạt hàm `handleSelectSort()`.
   * Để thêm Retry: Sử dụng component `ErrorState` có sẵn nhận prop `onRetry`, khi bấm nút sẽ gọi lại `loadProducts(false)`.
+
